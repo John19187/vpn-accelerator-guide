@@ -34,7 +34,7 @@ VPN，全称Virtual Private Network，通过在用户设备与VPN服务器之间
 
 ## 4. 2026年最新推荐：高性价比与高性能并存 
 
- <a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐</a> 
+
  
 进入2026年，市场上涌现出一批在速度、稳定性、安全性、价格等方面均表现出色的VPN与加速器。以下几款值得重点关注：  
 
@@ -54,7 +54,7 @@ VPN，全称Virtual Private Network，通过在用户设备与VPN服务器之间
 - **折扣与优惠**：留意节日折扣、邀请码返现等活动；  
 - **售后服务**：优质机场会提供一对一配置指导及故障排查。  
 
-想要从零开始轻松上手？查看这篇「<a href="https://john19187.github.io/posts/2026-04-13-vpn-guide.html" target="_blank">最新VPN机场套餐全攻略：新手也能轻松访问全球网站！(2026年)</a>」，内含详细图文教程与实操建议，让你迅速搞定账号注册、客户端配置与常见问题。
+想要从零开始轻松上手？查看这篇「<a href="https://github.com/John19187/ji-chang-tui-jian" target="_blank">机场汇总推荐(2026年)</a>」，内含详细图文教程与实操建议与常见问题。
 
 ## 6. 资深玩家进阶指南  
 对于已经熟悉基础配置的用户，可以尝试以下高级玩法，进一步提升隐私与速度：  
